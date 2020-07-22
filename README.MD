@@ -8,8 +8,15 @@
 
 3. In `igBot.py`,
 
-   1. Line 36 - change the post-url
+   1. Line 36 - change the 'post-url'
 
-   2. Line 62 - put the username and the password
+   2. Line 62 - put the 'username' and the 'password'
 
 4. Run the code
+
+### Environment
+
+- Python 3.8.4
+- VSCode
+- Selenium
+- Webdriver Firefox for Mac OS X
