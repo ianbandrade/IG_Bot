@@ -1,6 +1,6 @@
 ## Simple Instagram comment bot
 
-### Setup andusage
+### Setup and usage
 
 1. Clone the repository: \$ git clone https://github.com/ianbandrade/IG_Bot
 
